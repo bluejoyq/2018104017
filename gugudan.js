@@ -1,5 +1,5 @@
 const run = () => {
-    let numArr = [1,2,3,4,5,6,7,8];
+    let numArr = [1,2,3,4,5,6,7,8,9];
 
     numArr.forEach( ( numA ) => {
         numArr.forEach( (numB ) => {
